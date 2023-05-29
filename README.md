@@ -5,7 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Mansi+Mittal+this+side+.....;IIIT+BHOPAL+(IT)+2025)](https://git.io/typing-svg)
 
 <h2 align="center">💫 About Me:</h2>
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="190" width="300"/>
+<!-- <img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="190" width="300"/> -->
+<img alt="Header GIF" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47po12uvhx7ohkxzpqtsa0y40whzy4awdtbfczeem0&rid=giphy.gif&ct=g" width="300" height="190" align="right" />
  <br>
 
 <br>🔭 I'm currently working on Frontend projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about React, CPP and Front-end<br>📧 How to reach me mansi27mittal@gmail.com<br><br><br>
@@ -57,11 +58,20 @@
   </h2>
 
 ![](https://github-profile-trophy.vercel.app/?username=MansiMittal7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!-- --- -->
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
 
 ---
+<h3 align="center">
+  ✍️ Random Dev Quote
+</h3>
+<hr>
+<div align="center">
+  <p>
+    <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="MansiMittal" />
+  </p>
+ </div> 
 <!-- [![](https://visitcount.itsvg.in/api?id=MansiMittal7&icon=0&color=0)](https://visitcount.itsvg.in) -->
  <h3 align="center">
     🔝 Top Contributed Repo
