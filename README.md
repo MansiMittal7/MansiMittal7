@@ -1,4 +1,13 @@
-# 💫 About Me:
+
+### HEY !!! 👋
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Mansi+Mittal+this+side+.....;IIIT+BHOPAL+(IT)+2025)](https://git.io/typing-svg)
+
+<h2 align="center">💫 About Me:</h2>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/96309032/210981303-80989856-7ce2-43c8-a9b8-6874fbeeaa19.gif" align="right" height="190" width="300"/>
+ <br>
+
 <br>🔭 I'm currently working on Frontend projects<br>🤝 I’m looking to collaborate on Web development projects<br>🌱 I'm currently learning MERN development and Data Structures and Algorithm<br>💬 Ask me about React, CPP and Front-end<br>📧 How to reach me mansi27mittal@gmail.com<br><br><br>
 
 <div>
