@@ -54,10 +54,20 @@
 <br/>
 
 
-<h2 align="center"> 🏆 GitHub Trophies
+<!-- <h2 align="center"> 🏆 GitHub Trophies
   </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=MansiMittal7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MansiMittal7&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
+<h2 align="center">
+  🏆 GitHub Trophies
+</h2>
+
+<!-- ## 🏆 GitHub Trophies -->
+<div align="center">
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=MansiMittal7&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="MansiMittal7" />
+  </p>
+ </div> 
 <!-- --- -->
 <!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical) -->
