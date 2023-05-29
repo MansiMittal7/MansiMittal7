@@ -1,5 +1,6 @@
 
-### HEY !!! 👋
+<!-- ### HEY !!! 👋 -->
+<h1> HEY!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="MansiMittal7" width="30px"/></h1>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=25&duration=4000&pause=1000&color=red&background=00FFE400&center=true&width=435&lines=Mansi+Mittal+this+side+.....;IIIT+BHOPAL+(IT)+2025)](https://git.io/typing-svg)
